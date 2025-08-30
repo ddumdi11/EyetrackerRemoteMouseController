@@ -1,0 +1,22 @@
+# Core Computer Vision
+opencv-python>=4.8.0
+# Alternative für dlib - MediaPipe für Gesichtserkennung
+mediapipe>=0.10.0
+
+# Mouse and Keyboard Control  
+pyautogui>=0.9.54
+
+# Mathematical Operations
+numpy>=1.24.0
+
+# Configuration and Data
+pyyaml>=6.0.0
+
+# Performance Monitoring
+psutil>=5.9.0
+
+# Logging and Debugging
+colorlog>=6.7.0
+
+# Windows API Integration
+pywin32>=306
