@@ -125,4 +125,5 @@ Dieses Projekt ist unter der [MIT License](LICENSE) lizensiert - siehe [LICENSE]
 
 ⭐ **Gefällt dir das Projekt?** Gib ihm einen Stern und folge mir für weitere innovative Entwicklungen!
 
-📧 **Kontakt**: [Deine Email] | 💼 **LinkedIn**: [Dein LinkedIn Profil]
+
+📧 **Kontakt**: ****@**** (auf Anfrage) | 💼 **LinkedIn**: www.linkedin.com/in/thorsten-diederichs-a05051203
